@@ -6,7 +6,7 @@ You can install this library using pip:
 pip install wikipedia-api
 
 # Usage
-Monthly Pageviews
+# # Monthly Pageviews
 To retrieve the monthly pageviews for a specified Wikipedia article, use the monthly_pageviews function and provide the article ID as an argument:
 from wikipedia_api import monthly_pageviews
 

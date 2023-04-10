@@ -3,7 +3,7 @@ This is a Python library that provides functions for crawling monthly and daily 
 
 # Installation
 You can install this library using pip:
-pip install wikipedia-api
+```pip install wikipedia-api```
 
 # Usage
 ## Monthly Pageviews
